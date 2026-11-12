@@ -1,0 +1,15 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/src/graph/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/src/algorithms/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/src/render/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/src/ui/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/src/app/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/tests/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/catch2/cmake_install.cmake",
+		"C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/catch2/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

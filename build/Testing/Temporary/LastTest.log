@@ -1,0 +1,41 @@
+Start testing: Sep 23 23:01 India Standard Time
+----------------------------------------------------------
+1/2 Testing: GraphTests
+1/2 Test: GraphTests
+Command: "C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/bin/test_graph.exe"
+Directory: C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/tests
+"GraphTests" start time: Sep 23 23:01 India Standard Time
+Output:
+----------------------------------------------------------
+Randomness seeded to: 1008084411
+===============================================================================
+All tests passed (20 assertions in 1 test case)
+
+<end of output>
+Test time =   0.46 sec
+----------------------------------------------------------
+Test Passed.
+"GraphTests" end time: Sep 23 23:01 India Standard Time
+"GraphTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: AlgorithmTests
+2/2 Test: AlgorithmTests
+Command: "C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/bin/test_algorithms.exe"
+Directory: C:/Users/Kanishk Sinha/OneDrive/Documents/CampusNav3D/build/tests
+"AlgorithmTests" start time: Sep 23 23:01 India Standard Time
+Output:
+----------------------------------------------------------
+Randomness seeded to: 3288398519
+===============================================================================
+All tests passed (30 assertions in 8 test cases)
+
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"AlgorithmTests" end time: Sep 23 23:01 India Standard Time
+"AlgorithmTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 23 23:01 India Standard Time

@@ -1,0 +1,23 @@
+{
+  "name": "campusnav3d-enterprise",
+  "version": "1.0.0",
+  "description": "3D Digital Twin & Spatial Navigation System for IIT Delhi Campus",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "threejs",
+    "spatial-navigation",
+    "iit-delhi",
+    "graph-algorithms",
+    "digital-twin"
+  ],
+  "author": "Google Antigravity Pair Programmer",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^9.15.2",
+    "pptxgenjs": "^4.0.1"
+  }
+}

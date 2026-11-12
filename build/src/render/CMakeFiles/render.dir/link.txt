@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc ..\..\lib\librender.a CMakeFiles/render.dir/OrbitCamera.cpp.obj CMakeFiles/render.dir/CampusRenderer.cpp.obj CMakeFiles/render.dir/PathAnimator.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe ..\..\lib\librender.a

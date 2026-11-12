@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc lib\librlImGui.a CMakeFiles/rlImGui.dir/external/rlImGui/rlImGui.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe lib\librlImGui.a
