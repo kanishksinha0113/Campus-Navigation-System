@@ -234,7 +234,7 @@ CampusNav3D/
 
 ---
 
-## 8. Anticipated Questions from Your Teacher (and How to Answer)
+## 8. Expected Questions from Your Teacher (and How to Answer)
 
 ### Q1: "Why did you implement the algorithms in the frontend instead of the backend?"
 > **Answer:**  
@@ -255,5 +255,6 @@ CampusNav3D/
 ### Q5: "How does your system solve multi-stop route queries?"
 > **Answer:**  
 > *"When a user adds 3 or more locations, the problem becomes the NP-hard Traveling Salesperson Problem (TSP). For $n \le 12$, we use the exact **Held-Karp algorithm** using Dynamic Programming with bitmask state compression in $\mathcal{O}(n^2 2^n)$ time. For larger itineraries, we fall back to a **Nearest-Neighbor greedy heuristic followed by 2-Opt local search** in $\mathcal{O}(n^2)$ time."*
-#   C a m p u s - N a v i g a t i o n - S y s t e m  
+#   C a m p u s - N a v i g a t i o n - S y s t e m 
+ 
  
